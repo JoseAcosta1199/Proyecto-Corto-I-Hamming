@@ -1,4 +1,4 @@
-# Proyecto Corto I — Diseño Digital Combinacional en FPGA (Hamming SEC-DED)
+# Proyecto Corto I — Diseño Digital Combinacional en FPGA (Hamming SEC-DED) Hola 
 
 **Curso:** EL-3307 Diseño Lógico — II Semestre 2025  
 **Escuela:** Escuela de Ingeniería Electrónica, ITCR  

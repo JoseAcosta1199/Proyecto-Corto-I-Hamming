@@ -93,6 +93,8 @@ El resultado del montaje fue un sistema interactivo: al variar los switches se p
 ---
 
 ## Ejercicio 2: Oscilador en anillo
+Oscilador con 5 inversores 
+<img width="800" height="480" alt="DS0001" src="https://github.com/user-attachments/assets/8a05bd29-9f15-4bd6-81bd-ebd978f978a6" />
 Oscilador con 3 inversores 
 <img width="800" height="480" alt="DS0010" src="https://github.com/user-attachments/assets/7027a929-9625-473f-a973-96af887a93d3" />
 El periodo de osilacion en la practica es de 16,7 ms
